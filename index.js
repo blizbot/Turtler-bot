@@ -94,7 +94,7 @@ function requireallhandlers(){
 }requireallhandlers();
 
 
- client.login(process.env.TOKEN);
+ client.login("OTE1OTI0MzA3Njg1ODE0Mjgy.Yaiq_A.Iu5C6tqD19K5b6ZWyGiRY9eIVHU");
 
 module.exports.requirehandlers = requirehandlers;
 module.exports.requiresociallogs = requiresociallogs;
